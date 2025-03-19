@@ -40,7 +40,7 @@ export default defineConfig({
       },
     }),
     ViteEjsPlugin({
-      domain: "jameswspears.github.io",
+      domain: "james-spears.github.io",
       title: "James' website",
     }),
   ],
